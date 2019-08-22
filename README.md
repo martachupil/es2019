@@ -22,4 +22,4 @@ what is the procedure for it, and what's new in ES2019 (smile)
 
 ## Pacemaker Conference - AUGUST 2019
 
-<iframe width="460" height="215" src="https://www.youtube.com/embed/bNdbAL89AHU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+https://www.youtube.com/embed/bNdbAL89AHU
